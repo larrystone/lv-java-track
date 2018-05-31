@@ -22,7 +22,7 @@ To be run via the command line/IDE
 
 - <b>[Java_classes_objects](Java_classes_objects)</b>
 Task: Write a Java program solves a real world problem using classes, objects and Java OOP fundamental concepts. Resources: Include inheritance, Encapsulation, Polymorphism, Overriding, interfaces and abstraction in your code
-To be run via the command line/IDE
+[*External link*](https://github.com/larrystone/java_oop)
 
 - <b>[Exceptions_in_java](Exceptions_in_java)</b>
 Task: Write a Java program that throws an unchecked exception and handles the exception neatly to avoid application termination at runtime
