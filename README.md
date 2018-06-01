@@ -18,7 +18,7 @@ To be run via the command line/IDE
 
 - <b>[Java_as_OOP](Java_as_OOP)</b>
 Task: Describe a class of objects from the real world, state their attributes, and their behavior. Then list and explain the basic Java OOP fundamental concepts.
-To be run via the command line/IDE
+[*External link*](https://medium.com/@larrystonegroup/java-as-an-object-oriented-programming-language-c9a03fdafe55)
 
 - <b>[Java_classes_objects](Java_classes_objects)</b>
 Task: Write a Java program solves a real world problem using classes, objects and Java OOP fundamental concepts. Resources: Include inheritance, Encapsulation, Polymorphism, Overriding, interfaces and abstraction in your code
